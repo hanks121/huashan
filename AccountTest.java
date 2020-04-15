@@ -9,6 +9,7 @@ package com.atguigu.exer;
  2.是否有共享数据？ 有，账户（或账户余额）
  3.是否有线程安全问题？有
  4.需要考虑如何解决线程安全问题？同步机制：有三种方式。
+This is from LHC.
 
  * @author shkstart
  * @create 2019-02-15 下午 3:54
